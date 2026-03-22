@@ -1,17 +1,14 @@
 # BetterRest
 
-### Hi 🙋‍♂️
+### Hej 🙋‍♂️
 
-The app was built to help coffee drinkers get a good night's sleep by asking them three questions:
+Aplikacja została stworzona, aby pomóc kawoszom dobrze się wyspać, zadając im trzy pytania:
 
-When do they want to wake up?
-Approximately how many hours of sleep do they want?
-How many cups of coffee do they drink a day?
+Kiedy chcą się obudzić? Ile mniej więcej godzin snu chcą spać? Ile filiżanek kawy piją dziennie?
 
-Once we have these three values, we'll feed them into Core ML to get a result telling us when they should go to sleep.
-There are billions of possible answers - all the different wake up times multiplied by the number of hours you sleep, multiplied again by the full range of coffee amounts.
+Po uzyskaniu tych trzech wartości wprowadzimy je do Core ML, aby uzyskać wynik, który powie nam, kiedy powinni iść spać. Istnieją miliardy możliwych odpowiedzi - wszystkie godziny pobudki pomnożone przez liczbę godzin snu, a następnie ponownie pomnożone przez pełen zakres ilości wypitej kawy.
 
-This is where machine learning comes in: using a technique called regression analysis, we can ask a computer to come up with an algorithm capable of representing all of our data. This in turn allows the algorithm to be applied to fresh data it has not seen before and get accurate results.
+W tym miejscu wkracza uczenie maszynowe: wykorzystując technikę zwaną analizą regresji, możemy poprosić komputer o opracowanie algorytmu zdolnego do reprezentacji wszystkich naszych danych. To z kolei pozwala na zastosowanie algorytmu do nowych danych, których wcześniej nie widział, i uzyskanie dokładnych wyników.
 
 ### Built With
 
