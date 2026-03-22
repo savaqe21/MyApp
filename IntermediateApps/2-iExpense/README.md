@@ -1,9 +1,8 @@
 # iExpense
 
-### Hi 🙋‍♂️
+### Hej 🙋‍♂️
 
-This project is iExpense, which is an expense tracking app that separates personal expenses from business expenses. <br/>
-At its core, it's an app with a form (how much have you spent?) and a list (here are the amounts spent).
+Ten projekt to iExpense, aplikacja do śledzenia wydatków, która oddziela wydatki osobiste od wydatków firmowych. W swojej istocie jest to aplikacja z formularzem (ile wydałeś?) i listą (tutaj znajdują się kwoty wydatków).
 
 ### Built With
 
